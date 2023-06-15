@@ -310,7 +310,8 @@ and also makes it easy for us to provide sensible error messages for our users.
 We will not cover this module in this lesson
 but you can go to Tshepang Lekhonkhobe's
 [Argparse tutorial](https://docs.python.org/3/howto/argparse.html)
-that is part of Python's Official Documentation.
+that is part of Python's Official Documentation. Another option is the `argh` library,
+a wrapper around the `argparse` library that simplifies its usage.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
